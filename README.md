@@ -1,16 +1,16 @@
-# bmih
+# BMIH
 
-A new Flutter project.
+A BMI calculator that u can save the result so you can track your progress
 
-## Getting Started
+# Spin Up
 
-This project is a starting point for a Flutter application.
+- `flutter pub get`
+- `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+# UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/xrnze/bmih/assets/39372818/eb4bb387-c8b9-49e3-abf9-c964288bb58d)
+![image](https://github.com/xrnze/bmih/assets/39372818/73a9ee9f-f1f8-4672-ab9a-1b6ae71ffef7)
+![image](https://github.com/xrnze/bmih/assets/39372818/32a27b0d-c5e3-464b-b2c8-39020285241d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
